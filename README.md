@@ -78,7 +78,7 @@ Tu aimes mon travail ?
   <summary><b>⚙️ Outils que j’utilise pour travailler</b></summary>
   	<ul>
   	    <li><b>OS :</b>  Microsoft Windows 11 Famille</li>
-	    <li><b>Ordinateur : </b> </li>
+	    <li><b>Ordinateur : </b> Extreme Gamer</li>
   	    <li><b>Navigateur : </b> Chrome</li>
 	    <li><b>Terminal : </b> CMD & Terminal Linux</li>
 	    <li><b>Éditeur de code :</b> VSCode - Le meilleur éditeur qui existe</li>
