@@ -1,4 +1,4 @@
-## Salut 👋, je suis [Kyorzz!](https://github.com/t3iw)
+## Salut 👋, je suis [Kyrozz!](https://github.com/t3iw)
 
 [![Discord Badge](https://media.discordapp.net/attachments/1398434094051885057/1414203953444294717/Sans_titre-1.png?ex=68beb791&is=68bd6611&hm=f10484250648c54885a5735457e845414994688dbbf8922575e779c69c6b70f3&=&format=webp&quality=lossless)](https://discord.gg/wxhUZTjJ2e)
 
