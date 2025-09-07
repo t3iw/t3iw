@@ -1,6 +1,6 @@
 ## Salut 👋, je suis [Pavan!](https://github.com/t3iw)
 
-[![Discord Badge](https://media.discordapp.net/attachments/1398434094051885057/1414199287180427264/discord-icon-isolated-white-background-social-media-app-square-button-logo-sign-symbol_989822-4773-removebg-preview.png?ex=68beb338&is=68bd61b8&hm=9bf6bd79384b7ab4fdde90a996901bdf58620a51e01a190c17334cdf0742a90d&=&format=webp&quality=lossless)](https://discord.gg/wxhUZTjJ2e)
+[![Discord Badge](https://media.discordapp.net/attachments/1398434094051885057/1414202990142951465/Sans_titre-2.png?ex=68beb6ab&is=68bd652b&hm=b91f52758ea0eb8ff5ca8b0fb6ebc6f08d8faa21aa3dc2e43b501743a77a2e42&=&format=webp&quality=lossless)](https://discord.gg/wxhUZTjJ2e)
 
 ### Ravi de te voir ici ! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Kyrozz" /> </p>
