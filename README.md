@@ -1,54 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,40:0a1628,100:1565c0&height=280&section=header&text=K13%20T3IW&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=%E2%9A%A1%20Fortnite%20Competitive%20Player%20%C2%B7%20EU%20%C2%B7%20K13%20Esport%20%E2%9A%A1&descSize=17&descColor=5dade2&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03060f,40:050d1a,100:0d2137&height=300&section=header&text=K13%20T3IW&fontSize=100&fontColor=ffffff&fontAlignY=44&desc=⚡%20Fortnite%20Competitive%20Player%20·%20PC%20KBM%20·%20EU%20⚡&descSize=19&descColor=4fc3f7&descAlignY=64&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=🎯+Build+Comp+Player+·+EU+Server;🔥+PC+Keyboard+%26+Mouse;⚡+Ranked+Grinder+·+Always+Improving;🏹+K13+T3IW+·+Fortnite+Competitive" alt="Typing" />
+
+<br/><br/>
+
+[![TRACKER](https://img.shields.io/badge/🎯%20FORTNITE%20TRACKER%20OFFICIEL-K13%20T3IW-1565c0?style=for-the-badge&logo=fortnite&logoColor=white&labelColor=050d1a)](https://fortnitetracker.com/profile/all/K13%20T3IW)
+&nbsp;
+[![Discord](https://img.shields.io/badge/💬%20DISCORD-Rejoindre-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=050d1a)](https://discord.gg/wxhUZTjJ2e)
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=t3iw&color=1565c0&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=🎯+Fortnite+Competitive+EU+Player;🏆+K13+Esport+Official+Member;🔥+Ranked+Grinder+·+PC+KBM;⚡+Always+Improving+·+Never+Stopping" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![FORTNITE TRACKER](https://img.shields.io/badge/━━━━━━━━━%20🎯%20MON%20TRACKER%20FORTNITE%20🎯%20━━━━━━━━━-1565c0?style=for-the-badge)](https://fortnitetracker.com/profile/all/K13%20T3IW)
-
-[![Tracker](https://img.shields.io/badge/📊%20STATS%20EN%20DIRECT-fortnitetracker.com%2Fprofile%2Fall%2FK13%20T3IW-0d47a1?style=for-the-badge&logo=fortnite&logoColor=white)](https://fortnitetracker.com/profile/all/K13%20T3IW)
-[![K13 Esport](https://img.shields.io/badge/🏆%20K13%20ESPORT-Roster%20Officiel-FFD700?style=for-the-badge)](https://fortnitetracker.com/esports/organization/k13-esport)
-[![Discord](https://img.shields.io/badge/💬%20DISCORD-Rejoindre-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wxhUZTjJ2e)
-
-</div>
-
-<br>
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR58x/giphy.gif" width="30px"> PROFIL JOUEUR
+<div align="center">
+
+## ⚡ PLAYER CARD
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
 ```
- ╔═══════════════════════════════════════╗
- ║        ⚡  PLAYER CARD  ⚡           ║
- ╠═══════════════════════════════════════╣
- ║  PSEUDO      │  K13 T3IW             ║
- ║  TEAM        │  K13 Esport           ║
- ║  PLATFORM    │  PC — Keyboard/Mouse  ║
- ║  REGION      │  🌍 EU                ║
- ║  PLAYSTYLE   │  Aggressive / Ranked  ║
- ║  MODES       │  Solo · Duo · Trio    ║
- ╚═══════════════════════════════════════╝
+┌─────────────────────────────────────────┐
+│                                         │
+│    ██╗  ██╗ ██╗██████╗                  │
+│    ██║ ██╔╝███║╚════██╗                 │
+│    █████╔╝ ╚██║ █████╔╝                 │
+│    ██╔═██╗  ██║ ╚═══██╗                 │
+│    ██║  ██╗ ██║██████╔╝                 │
+│    ╚═╝  ╚═╝ ╚═╝╚═════╝  T3IW           │
+│                                         │
+│  PSEUDO      →  K13 T3IW               │
+│  PLATEFORME  →  PC — Keyboard & Mouse  │
+│  RÉGION      →  🌍 EU                  │
+│  MODE        →  Build Compétitif       │
+│  STYLE       →  Agressif / Seek        │
+│  TRACKER     →  fortnitetracker.com    │
+│                                         │
+└─────────────────────────────────────────┘
 ```
 
 </td>
-<td width="50%" align="center">
+<td width="45%" align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ1dWF2bXJnY2E0cWc3dWlqbXF4bXdxMXY0b3FhbzN2cGZ1aHc1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XreQmk7ETCak0/giphy.gif" width="220px" style="border-radius:10px"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh1OWVzOHZ3cnhxejJpNDllMWxra2Y1ZGdmMnpzbzg1cHl3bGlleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI6SIIHBdRxXI40/giphy.gif" width="240px"/>
+
+<br/>
+
+[![Stats Live](https://img.shields.io/badge/📊_STATS_LIVE-Voir_Mon_Tracker-1565c0?style=for-the-badge)](https://fortnitetracker.com/profile/all/K13%20T3IW)
 
 </td>
 </tr>
@@ -56,168 +65,229 @@
 
 ---
 
-## 🏆 K13 ESPORT — MON ORGANISATION
+## 📊 MES STATS FORTNITE
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-1a1a2e?style=for-the-badge" width="80%"/>
+> 🔴 **Stats en temps réel — Tracker officiel mis à jour après chaque game**
+
+[![Voir toutes mes stats](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-050d1a?style=flat-square)](https://fortnitetracker.com/profile/all/K13%20T3IW)
 
 </div>
-
-```yaml
-🏅 Organisation  : K13 Esport
-🌍 Région        : Europe
-🎮 Jeu           : Fortnite Battle Royale — Compétitif
-🏆 Roster        : https://fortnitetracker.com/esports/organization/k13-esport
-📡 Tracker perso : https://fortnitetracker.com/profile/all/K13 T3IW
-```
-
-> 🔥 **K13 Esport** est une organisation compétitive Fortnite EU sérieuse.
-> Je représente les couleurs K13 sur chaque scrim, chaque Cash Cup, chaque ranked.
-> **Chaque game compte. Chaque placement compte.**
-
----
-
-## 📊 MES STATISTIQUES FORTNITE
-
-<div align="center">
-
-> ⚠️ **Stats live disponibles sur mon tracker officiel — mis à jour en temps réel**
-
-<a href="https://fortnitetracker.com/profile/all/K13%20T3IW">
-  <img src="https://img.shields.io/badge/🎯%20VOIR%20MES%20STATS%20EN%20DIRECT%20--%20CLICK%20HERE-1565c0?style=for-the-badge&logo=fortnite&logoColor=white" />
-</a>
-
-</div>
-
-<br>
 
 <table align="center">
 <tr>
-  <th>📌 Statistique</th>
-  <th>📈 Valeur</th>
-  <th>🔗 Source</th>
+  <td align="center" width="160px">
+    <h3>🏆</h3>
+    <b>Victory Royales</b><br/>
+    <a href="https://fortnitetracker.com/profile/all/K13%20T3IW"><img src="https://img.shields.io/badge/VOIR-TRACKER-1565c0?style=flat-square"/></a>
+  </td>
+  <td align="center" width="160px">
+    <h3>☠️</h3>
+    <b>K/D Ratio</b><br/>
+    <a href="https://fortnitetracker.com/profile/all/K13%20T3IW"><img src="https://img.shields.io/badge/VOIR-TRACKER-1565c0?style=flat-square"/></a>
+  </td>
+  <td align="center" width="160px">
+    <h3>💀</h3>
+    <b>Total Kills</b><br/>
+    <a href="https://fortnitetracker.com/profile/all/K13%20T3IW"><img src="https://img.shields.io/badge/VOIR-TRACKER-1565c0?style=flat-square"/></a>
+  </td>
+  <td align="center" width="160px">
+    <h3>🎮</h3>
+    <b>Matchs Joués</b><br/>
+    <a href="https://fortnitetracker.com/profile/all/K13%20T3IW"><img src="https://img.shields.io/badge/VOIR-TRACKER-1565c0?style=flat-square"/></a>
+  </td>
 </tr>
 <tr>
-  <td>🏆 Victory Royales</td>
-  <td><a href="https://fortnitetracker.com/profile/all/K13%20T3IW"><b>Voir tracker →</b></a></td>
-  <td>fortnitetracker.com</td>
-</tr>
-<tr>
-  <td>💀 Total Kills</td>
-  <td><a href="https://fortnitetracker.com/profile/all/K13%20T3IW"><b>Voir tracker →</b></a></td>
-  <td>fortnitetracker.com</td>
-</tr>
-<tr>
-  <td>☠️ K/D Ratio</td>
-  <td><a href="https://fortnitetracker.com/profile/all/K13%20T3IW"><b>Voir tracker →</b></a></td>
-  <td>fortnitetracker.com</td>
-</tr>
-<tr>
-  <td>🎮 Matchs joués</td>
-  <td><a href="https://fortnitetracker.com/profile/all/K13%20T3IW"><b>Voir tracker →</b></a></td>
-  <td>fortnitetracker.com</td>
-</tr>
-<tr>
-  <td>🏅 Rang Ranked</td>
-  <td><a href="https://fortnitetracker.com/profile/all/K13%20T3IW"><b>Voir tracker →</b></a></td>
-  <td>fortnitetracker.com</td>
-</tr>
-<tr>
-  <td>📅 Win Rate</td>
-  <td><a href="https://fortnitetracker.com/profile/all/K13%20T3IW"><b>Voir tracker →</b></a></td>
-  <td>fortnitetracker.com</td>
+  <td align="center">
+    <h3>📈</h3>
+    <b>Win Rate</b><br/>
+    <a href="https://fortnitetracker.com/profile/all/K13%20T3IW"><img src="https://img.shields.io/badge/VOIR-TRACKER-1565c0?style=flat-square"/></a>
+  </td>
+  <td align="center">
+    <h3>🏅</h3>
+    <b>Rang Ranked</b><br/>
+    <a href="https://fortnitetracker.com/profile/all/K13%20T3IW"><img src="https://img.shields.io/badge/VOIR-TRACKER-1565c0?style=flat-square"/></a>
+  </td>
+  <td align="center">
+    <h3>⚡</h3>
+    <b>Kills / Match</b><br/>
+    <a href="https://fortnitetracker.com/profile/all/K13%20T3IW"><img src="https://img.shields.io/badge/VOIR-TRACKER-1565c0?style=flat-square"/></a>
+  </td>
+  <td align="center">
+    <h3>🔥</h3>
+    <b>Top 25 Rate</b><br/>
+    <a href="https://fortnitetracker.com/profile/all/K13%20T3IW"><img src="https://img.shields.io/badge/VOIR-TRACKER-1565c0?style=flat-square"/></a>
+  </td>
 </tr>
 </table>
 
-<br>
+<div align="center">
 
-> 💡 **Tu veux mes stats exactes ?** Dis-les moi et je les intègrerai directement dans ce README avec un design encore plus stylé !
+<br/>
+
+[![FORTNITE TRACKER COMPLET](https://img.shields.io/badge/🎯%20TOUTES%20MES%20STATS%20ICI%20→%20fortnitetracker.com%2Fprofile%2Fall%2FK13%20T3IW-1565c0?style=for-the-badge&logo=fortnite&logoColor=white)](https://fortnitetracker.com/profile/all/K13%20T3IW)
+
+</div>
+
+---
+
+## 🎮 STYLE DE JEU
+
+<div align="center">
+
+```
+ ╔══════════════════════════════════════════════════════════╗
+ ║             BUILD COMPÉTITIF · AGRESSIF EU              ║
+ ╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+| 🎯 Skill | 📊 Niveau | 💬 Description |
+|:--------:|:---------:|:--------------|
+| **Aim & Tracking** | `██████████` ⭐ | Précision souris optimale sur 6.4/6.4 |
+| **Build Fights** | `█████████░` | Box fights, édits rapides, contre-build |
+| **Game Sense** | `████████░░` | Rotations, timing storm, décisions |
+| **Agressivité** | `██████████` ⭐ | Seek constant, pressure sur les ennemis |
+| **Ranked Grind** | `█████████░` | Consistance et mental compétitif |
+| **Edit Speed** | `████████░░` | Édits propres, séquences fluides |
+
+<div align="center">
+
+> 🔥 **Playstyle** : Build comp agressif — j'impose ma game, je cherche le fight, j'élimination les ennemis un par un jusqu'à la Victory Royale.
+
+</div>
 
 ---
 
 ## ⚙️ MON SETUP
 
+<div align="center">
+
+```
+ ╔══════════════════════════════════════════════════════════╗
+ ║                   🖥️  GAMING SETUP                      ║
+ ╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
 <table align="center">
 <tr>
-  <td align="center">🖥️ <b>Écran</b></td>
-  <td align="center">🖱️ <b>Souris</b></td>
-  <td align="center">⌨️ <b>Clavier</b></td>
-  <td align="center">🎧 <b>Casque</b></td>
-</tr>
-<tr>
-  <td align="center">240Hz+</td>
-  <td align="center">PC KBM</td>
-  <td align="center">Mécanique</td>
-  <td align="center">Gaming</td>
+  <td align="center" width="180px">
+    <h3>🖥️</h3>
+    <b>ÉCRAN</b><br/><br/>
+    <code>MSI 240Hz</code><br/>
+    <sub>240 FPS · 1ms</sub>
+  </td>
+  <td align="center" width="180px">
+    <h3>🖱️</h3>
+    <b>SOURIS</b><br/><br/>
+    <code>Logitech G502 X</code><br/>
+    <sub>HERO 25K Sensor</sub>
+  </td>
+  <td align="center" width="180px">
+    <h3>⌨️</h3>
+    <b>CLAVIER</b><br/><br/>
+    <code>Dierya DK68SE</code><br/>
+    <sub>68% Mécanique</sub>
+  </td>
+  <td align="center" width="180px">
+    <h3>🎧</h3>
+    <b>CASQUE</b><br/><br/>
+    <code>JBL</code><br/>
+    <sub>Audio Gaming</sub>
+  </td>
 </tr>
 </table>
 
-> 💡 Setup complet à venir — *stay tuned*
-
 ---
 
-## 🔥 STYLE DE JEU
+## 🎯 MES SENSIBILITÉS FORTNITE
 
 <div align="center">
 
 ```
-  ██████╗  ██████╗ ███╗   ███╗██████╗  █████╗ ████████╗
- ██╔════╝ ██╔═══██╗████╗ ████║██╔══██╗██╔══██╗╚══██╔══╝
- ██║      ██║   ██║██╔████╔██║██████╔╝███████║   ██║   
- ██║      ██║   ██║██║╚██╔╝██║██╔══██╗██╔══██║   ██║   
- ╚██████╗ ╚██████╔╝██║ ╚═╝ ██║██████╔╝██║  ██║   ██║   
-  ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   
+ ╔══════════════════════════════════════════════════════════╗
+ ║                 🖱️  SENSITIVITY CONFIG                  ║
+ ╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-| 🎯 Attribut | ⭐ Niveau | 📝 Description |
-|:-----------:|:--------:|:--------------|
-| **Aim** | `█████████░` 90% | Précision et tracking élevés |
-| **Build Fights** | `████████░░` 80% | Box fights & matériaux |
-| **Game Sense** | `█████████░` 90% | Rotations & décisions |
-| **Ranked Grind** | `██████████` 100% | Consistance & mental |
-| **Aggression** | `█████████░` 90% | Toujours en seek |
+<table align="center">
+<tr>
+  <th>⚙️ Paramètre</th>
+  <th>📊 Valeur</th>
+  <th>📝 Note</th>
+</tr>
+<tr>
+  <td>🖱️ <b>Sensi X (Souris)</b></td>
+  <td align="center"><code>6.4</code></td>
+  <td>Horizontal · Axe X</td>
+</tr>
+<tr>
+  <td>🖱️ <b>Sensi Y (Souris)</b></td>
+  <td align="center"><code>6.4</code></td>
+  <td>Vertical · Axe Y</td>
+</tr>
+<tr>
+  <td>🎯 <b>Visée X (ADS)</b></td>
+  <td align="center"><code>45%</code></td>
+  <td>Horizontal · Précision</td>
+</tr>
+<tr>
+  <td>🎯 <b>Visée Y (ADS)</b></td>
+  <td align="center"><code>45%</code></td>
+  <td>Vertical · Précision</td>
+</tr>
+</table>
 
----
-
-## 🌐 RETROUVE-MOI PARTOUT
+<br/>
 
 <div align="center">
 
-<a href="https://fortnitetracker.com/profile/all/K13%20T3IW">
-  <img src="https://img.shields.io/badge/FORTNITE%20TRACKER-K13%20T3IW-1565c0?style=for-the-badge&logo=fortnite&logoColor=white&labelColor=050d1a" />
-</a>
-<a href="https://fortnitetracker.com/esports/organization/k13-esport">
-  <img src="https://img.shields.io/badge/K13%20ESPORT-ROSTER%20OFFICIEL-FFD700?style=for-the-badge&labelColor=050d1a" />
-</a>
-<a href="https://discord.gg/wxhUZTjJ2e">
-  <img src="https://img.shields.io/badge/DISCORD-SERVEUR-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=050d1a" />
-</a>
-<a href="mailto:t3iww.pro@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050d1a" />
-</a>
-<a href="https://github.com/t3iw">
-  <img src="https://img.shields.io/badge/GITHUB-T3IW-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=050d1a" />
-</a>
+```yaml
+sensitivity:
+  mouse_x      : 6.4
+  mouse_y      : 6.4
+  targeting_x  : 45%   # ADS / Scope horizontal
+  targeting_y  : 45%   # ADS / Scope vertical
+  platform     : PC · Keyboard & Mouse
+```
 
 </div>
 
 ---
 
-## 📈 GITHUB ACTIVITY
+## 🌐 ME RETROUVER
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=t3iw&theme=tokyonight&hide_border=true&background=050d1a&ring=1565c0&fire=FFD700&currStreakLabel=1E90FF&stroke=1565c0&sideLabels=5dade2&dates=5dade2&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=t3iw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050d1a&title_color=1565c0&icon_color=FFD700&text_color=5dade2&count_private=true" width="49%"/>
+<br/>
+
+[![Fortnite Tracker](https://img.shields.io/badge/Fortnite%20Tracker-K13%20T3IW-1565c0?style=for-the-badge&logo=fortnite&logoColor=white&labelColor=050d1a)](https://fortnitetracker.com/profile/all/K13%20T3IW)
+&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-Serveur-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=050d1a)](https://discord.gg/wxhUZTjJ2e)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-t3iw-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=050d1a)](https://github.com/t3iw)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050d1a)](mailto:t3iww.pro@gmail.com)
 
 </div>
 
+---
+
+## 📈 ACTIVITÉ
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=t3iw&bg_color=050d1a&color=5dade2&line=1565c0&point=FFD700&area=true&hide_border=true" width="98%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=t3iw&theme=tokyonight&hide_border=true&background=03060f&ring=1565c0&fire=4fc3f7&currStreakLabel=4fc3f7&stroke=0d2137&sideLabels=4fc3f7&dates=4fc3f7&currStreakNum=ffffff&sideNums=ffffff" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=t3iw&bg_color=03060f&color=4fc3f7&line=1565c0&point=4fc3f7&area=true&area_color=0d2137&hide_border=true" width="95%"/>
 
 </div>
 
@@ -225,18 +295,14 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+<br/>
 
-<br><br>
-
-> *"Dans le ranked comme dans la vie — seuls ceux qui grind arrivent au sommet."*
-> 
+> *"Le aim ça s'entraîne. L'IQ game ça s'apprend. Le grind, ça ne s'arrête jamais."*
+>
 > **— K13 T3IW**
 
-<br>
+<br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=t3iw&color=1565c0&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565c0,100:050d1a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565c0,50:0d2137,100:03060f&height=130&section=footer&text=K13%20T3IW%20·%20Fortnite%20EU&fontSize=22&fontColor=4fc3f7&fontAlignY=55" width="100%"/>
 
 </div>
