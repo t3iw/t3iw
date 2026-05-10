@@ -1,96 +1,137 @@
-## Salut 👋, je suis [Kyrozz!](https://github.com/t3iw)
+<div align="center">
 
-[![Discord Badge](https://media.discordapp.net/attachments/1398434094051885057/1414203953444294717/Sans_titre-1.png?ex=68beb791&is=68bd6611&hm=f10484250648c54885a5735457e845414994688dbbf8922575e779c69c6b70f3&=&format=webp&quality=lossless)](https://discord.gg/wxhUZTjJ2e)
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=header&text=K13%20T3IW&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Fortnite%20Player%20·%20Tech%20Lead%20·%20Developer&descSize=16&descAlignY=60&animation=fadeIn" />
 
-### Ravi de te voir ici ! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Kyrozz" /> </p>
-Je suis un Développeur actuellement responsable Tech chez AutoPlus avec une mission de révolutionner la manière dont le monde évolue grâce au trade middleman. 🚀
+<!-- Pseudo + Status -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=32&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Salut%2C+je+suis+K13+T3IW+%E2%9A%A1;Joueur+Fortnite+Comp%C3%A9titif;Tech+Lead+%40+AutoPlus;Membre+K13+Esport" alt="Typing SVG" />
+</h1>
 
-J’ai une passion pour la résolution de problèmes et la pensée de premier principe, animée par le but et stimulée par le défi de trouver des solutions, avec une solide base en Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. J’ai dirigé diverses équipes techniques couvrant le Frontend, Backend, Machine Learning et DevOps, en construisant des produits évolutifs à partir de zéro avec l’engagement d’avoir un impact positif grâce à la technologie.  
-
-Je suis un explorateur de nouvelles technologies, un apprenant passionné et un résolveur de problèmes dans l’âme. Quand je ne code pas, tu me trouveras en train de gérer des serveurs sur Discord, pour aider les gens.  
-
-N’hésite pas à me contacter @t3iw pour tout ce qui est tech ou juste pour dire bonjour ! Construisons ensemble l’avenir de la technologie. 🌟  
-
-J’ai rejoint Github il y a **5** ans.  
-
-Depuis, j’ai poussé **149**+ commits, ouvert **229**+ issues, soumis **585**+ pull requests, créé **20**+ gists et contribué à **6**+ dépôts publics.  
-
-<hr>
-<h3 align="left">✨ Citation aléatoire de dev :</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Citation Dev" />
+<p>
+  <img src="https://img.shields.io/badge/Fortnite-Comp%C3%A9titif-1e90ff?style=for-the-badge&logo=fortnite&logoColor=white" />
+  <img src="https://img.shields.io/badge/K13_Esport-Membre-ffd700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech_Lead-AutoPlus-bf5fff?style=for-the-badge" />
 </p>
-<hr>
 
-Tu aimes mon travail ?
+<p>
+  <img src="https://komarev.com/ghpvc/?username=t3iw&label=Vues+du+profil&color=1e90ff&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/t3iw?label=Followers&style=flat-square&color=1e90ff" />
+</p>
 
-<a href="https://paypal.me/t3iww" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Offre-moi un café" height="60px" width="217px" ></a>
+</div>
 
-<img align="right" height="250" width="375" alt="" src="https://media.discordapp.net/attachments/1398434094051885057/1414200168458358794/coder.png?ex=68beb40a&is=68bd628a&hm=feea54aae481a41351881cb170fe53fe394e8ffd7d0cbc9dca1173e50649cad0&=&format=webp&quality=lossless" />
+---
 
-### Parlons un peu de trucs perso :
+## 🎯 Fortnite — Pseudo: K13 T3IW
 
-- 🛠 &nbsp; Je travaille actuellement avec JS, TS, AWS, etc.
-- 🚀 &nbsp; J’explore actuellement le ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Pose-moi n’importe quelle question [ici](https://discord.gg/wxhUZTjJ2e) ! Je serai ravi d’aider.
-- 👾 &nbsp; Fun fact : "Égal n’est pas toujours égal" en JS.
-- 📫 &nbsp; Contacte-moi : t3iww.pro@gmail.com.
-
-### Mes grands favoris :
-
-- 💻 &nbsp; J’adore explorer de nouvelles technologies et construire des projets cool.
-- 📰 &nbsp; Lire, écrire & regarder des contenus Tech dès que possible.
-- 🍕 &nbsp; Meetups, Événements Tech & Hackathons.
-
-### Langages et Outils :
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-### Projets et trucs de dev :
-
-<details>
-  <summary><b>⚡ Statistiques Github</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>
-  <summary><b>☄️ Streaks Github</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
-</details>
-
-<details>
-  <br />
-  <summary><b>⚙️ Outils que j’utilise pour travailler</b></summary>
-  	<ul>
-  	    <li><b>OS :</b>  Microsoft Windows 11 Famille</li>
-	    <li><b>Ordinateur : </b> Extreme Gamer</li>
-  	    <li><b>Navigateur : </b> Chrome</li>
-	    <li><b>Terminal : </b> CMD & Terminal Linux</li>
-	    <li><b>Éditeur de code :</b> VSCode - Le meilleur éditeur qui existe</li>
- 	    <li><b>Autres outils :</b> VSCode, Notion, Bitwarden et Raindrop</li>
-	    <li><b>Pour rester à jour :</b> Discord, Github</li>
-	</ul>
-</details>
-
-#
+> Je joue sous le pseudo **K13 T3IW** et fais partie de l'organisation **K13 Esport**.
 
 <div align="center">
 
-### Montre un peu de ❤️ en mettant une ⭐ sur quelques dépôts !
+[![Fortnite Tracker](https://img.shields.io/badge/📊_Voir_mes_stats_Fortnite-fortnitetracker.com-1e90ff?style=for-the-badge)](https://fortnitetracker.com/profile/all/K13%20T3IW)
+[![K13 Esport](https://img.shields.io/badge/🏆_K13_Esport-Organisation-ffd700?style=for-the-badge)](https://fortnitetracker.com/esports/organization/k13-esport)
+
+</div>
+
+| 🎮 Mode | 🏆 Infos |
+|---------|---------|
+| Pseudo Epic Games | **K13 T3IW** |
+| Organisation | **K13 Esport** |
+| Plateforme | PC (KBM) |
+| Tracker | [fortnitetracker.com/profile/all/K13 T3IW](https://fortnitetracker.com/profile/all/K13%20T3IW) |
+
+---
+
+## 🧑‍💻 Qui suis-je ?
+
+```js
+const K13_T3IW = {
+  pseudo:     "K13 T3IW (Kyrozz)",
+  job:        "Tech Lead @ AutoPlus",
+  esport:     "Joueur Fortnite Compétitif · K13 Esport",
+  focus:      ["JavaScript", "TypeScript", "Node.js", "React", "Next.js", "AWS", "MongoDB"],
+  exploring:  ["Machine Learning", "Generative AI", "LLMs"],
+  community:  "Gestion de serveurs Discord · Support & entraide",
+  contact:    "t3iww.pro@gmail.com",
+  motto:      "Égal n'est pas toujours égal — en JS comme en ranked 😄"
+};
+```
+
+---
+
+## 🚀 Stack technique
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Stats GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=t3iw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=1e90ff&icon_color=bf5fff&text_color=c8dde8&bg_color=0d1b2a" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3iw&layout=compact&theme=tokyonight&hide_border=true&title_color=1e90ff&text_color=c8dde8&bg_color=0d1b2a&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=t3iw&theme=tokyonight&hide_border=true&stroke=1e90ff&ring=bf5fff&fire=ffd700&currStreakLabel=1e90ff&background=0d1b2a" />
+
+</div>
+
+---
+
+## 🏆 Activité
+
+<div align="center">
+
+| Métrique | Valeur |
+|----------|--------|
+| 💾 Commits poussés | **149+** |
+| 🐛 Issues ouvertes | **229+** |
+| 🔀 Pull Requests | **585+** |
+| 📝 Gists créés | **20+** |
+| 🌍 Repos publics contribués | **6+** |
+| 📅 Sur GitHub depuis | **5 ans** |
+
+</div>
+
+---
+
+## 🌐 Me retrouver
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-Rejoindre_le_serveur-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wxhUZTjJ2e)
+[![Email](https://img.shields.io/badge/Email-t3iww.pro%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t3iww.pro@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-t3iw-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/t3iw)
+[![Fortnite Tracker](https://img.shields.io/badge/Fortnite_Tracker-K13_T3IW-1e90ff?style=for-the-badge&logo=fortnite&logoColor=white)](https://fortnitetracker.com/profile/all/K13%20T3IW)
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Dans Fortnite comme en dev — la constance bat le talent."*
+
+⭐ **N'hésite pas à star un repo si tu aimes mon travail !** ⭐
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=80&section=footer" />
 
 </div>
